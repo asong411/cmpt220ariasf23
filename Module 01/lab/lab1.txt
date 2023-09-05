@@ -1,0 +1,42 @@
+CMPT220L Lab 1 -- Algorithms
+
+NAME: 
+PARTNER'S NAME: 
+
+----------------------------------------------------
+2 Executing Algorithms
+----------------------------------------------------
+
+2.2.1. Which steps perform input?
+
+2.2.2. Which steps perform output?
+
+2.2.3. Which steps modify the value of a variable?
+
+2.2.4. Which steps involve a mathematical operation?
+
+2.2.5. Which steps perform iteration? 
+
+2.2.6. This algorithm contains a "bug": a logical error that results in
+incorrect output.  Where is the problem?  How can it be fixed?
+
+
+----------------------------------------------------
+3 Creating Algorithms
+----------------------------------------------------
+
+3.1.1. Algorithm
+
+3.1.5. What was incorrect or imprecise about your algorithm? 
+
+3.2.1. Algorithm
+
+3.2.5. What was incorrect or imprecise about your algorithm? 
+
+3.3.1. Algorithm
+
+3.3.5. What was incorrect or imprecise about your algorithm? 
+
+3.4.1. Algorithm
+
+3.4.5. What was incorrect or imprecise about your algorithm? 
