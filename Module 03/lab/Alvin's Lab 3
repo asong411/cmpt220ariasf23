@@ -1,0 +1,19 @@
+Section 1
+1. 20
+2. 15
+3. 17
+4. 16
+5. 20
+Section 2
+1. F
+2. F
+3. T
+4. F
+5. T
+6. T
+Section 3
+1. Line 8  =    Description = there is a condition for an else
+2. Line 12  =    Description = there is { instead of (
+3. Line 12  =     Description = you need to have == instead of =
+4. Line 12  =     Description = the line should end with a {
+5. Line  8  =     Description = it has to be >= not =>
